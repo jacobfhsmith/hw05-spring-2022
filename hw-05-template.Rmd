@@ -1,0 +1,29 @@
+---
+title: 'Homework 05: Paint a plot, pick a package'
+author: '[INSERT NAME]'
+date: "April 14, 2022"
+output:
+  pdf_document:
+    fig_height: 3
+    fig_width: 6
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(warning = FALSE, 
+                      message = FALSE)
+```
+
+## Load packages & data
+
+```{r load-packages-data}
+# add packages
+``` 
+
+
+## Exercise 1
+
+
+## Exercise 2
+
+
+...
